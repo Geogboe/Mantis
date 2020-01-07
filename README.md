@@ -76,3 +76,7 @@ Remove a given shutdown event
 ```
 mantis remove --id 1
 ```
+
+## Development
+
+Work in progress
